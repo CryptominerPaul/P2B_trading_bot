@@ -5,7 +5,7 @@ Python Trading bot
 2. Wash Trading
 3. Info (Balances, Markets, Market Depth{bids & asks})
 
-You will need two files to run bot
+You will need two files to run the bot
 
 1. Make a directory for the files for the bot 
 ```
