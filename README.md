@@ -81,7 +81,8 @@ python3 P2B_Bot.py
 
 Trading Bot Example:
 
-<img src="" width="25%" alt="P2B_bot">
+<img src="https://user-images.githubusercontent.com/40405385/225487089-62e2a8b4-4196-464a-8393-e8fb7fa699a7.png" width="25%" alt="P2B_bot">
+![image](https://user-images.githubusercontent.com/40405385/225487089-62e2a8b4-4196-464a-8393-e8fb7fa699a7.png)
 
 
 <div style="color: yellow;">
