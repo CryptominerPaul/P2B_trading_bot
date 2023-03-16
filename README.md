@@ -65,8 +65,7 @@ nano P2B_Bot.py
 ```
 
 You can update the following lines of code to your stratigies
-``
-Sells:
+``Sells:
 min_sell_price = 0.00000055 # Set your MIN Sell Price
 price = round(ask_price - 0.00000001, 8) # places sell 1 step below current ask
 random_amount = round(random.uniform(200, 1000), 8) # Places order with random amount of coins 
@@ -74,8 +73,8 @@ random_amount = round(random.uniform(200, 1000), 8) # Places order with random a
 Buys
 max_buy_price = 0.00000045 # Set your MAX buy Price
 price = round(bid_price + 0.00000005, 8)) # places buy 5 step above current bid
-amount = round(desired_amount / price, 8) + 2.5 # Places order with random amount of coins
-``
+amount = round(desired_amount / price, 8) + 2.5 # Places order with random amount of coins``
+
 add # to the ``sell_order =`` or ``buy_order =`` line of code to stop the bot order from being placed
 
 To start Bot in Terminal:
