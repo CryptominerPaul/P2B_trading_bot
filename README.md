@@ -11,6 +11,10 @@ You will need two files to run the bot
 ```
 mkdir P2B_Trading_Bot
 ```
+than
+```
+cd P2B_Trading_Bot
+```
 2. Download files to the new directory you just created
 ```
 .env
@@ -48,9 +52,12 @@ pip install termcolor
 pip install prettytable
 pip install python-dotenv
 ```
-
-You will need to update your ``Private Keys`` and ``Coin Pairs`` in the .env file
+Using nano you will need to update your ``Private Keys`` and ``Coin Pairs`` in the .env file
 Example:
+```
+nano .env
+```
+
 ```
 # P2B Keys
 # Api-Key
