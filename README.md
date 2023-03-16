@@ -59,7 +59,10 @@ api_key=ENTER_YOUR_KEY_HERE
 secret_key=ENTER_YOUR_KEY_HERE
 ```
 
-In The Bot ``P2B_Bot.py``
+In The Bot.py using nano command you can change lines of code 
+```
+nano P2B_Bot.py
+```
 
 You can update the following lines of code to your stratigies
 ```
