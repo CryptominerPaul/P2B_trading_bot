@@ -11,7 +11,7 @@ You will need two files to run the bot
 ```
 mkdir P2B_Trading_Bot
 ```
-than
+then
 ```
 cd P2B_Trading_Bot
 ```
